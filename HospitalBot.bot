@@ -1,0 +1,18 @@
+{
+    "name": "HospitalBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "c752f2b0-3572-11ee-b21a-31c38b46398f",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\Academico\\source\\repos\\BotHospital\\HospitalBot.bot",
+    "overrides": null
+}

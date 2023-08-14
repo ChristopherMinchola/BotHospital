@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BJuOPmFn/thCLD8EXY+meH8YCuzUbxeuy715oT+7ezU=",
+  "Source": "BotHospital",
+  "BasePath": "_content/BotHospital",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BotHospital\\wwwroot",
+      "Source": "BotHospital",
+      "ContentRoot": "C:\\Users\\renzo\\Desktop\\BotHospital\\BotHospital\\wwwroot\\",
+      "BasePath": "_content/BotHospital",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\renzo\\Desktop\\BotHospital\\BotHospital\\wwwroot\\default.htm",
+      "SourceId": "BotHospital",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renzo\\Desktop\\BotHospital\\BotHospital\\wwwroot\\",
+      "BasePath": "_content/BotHospital",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
